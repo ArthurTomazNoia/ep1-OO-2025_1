@@ -19,10 +19,10 @@ O enunciado do trabalho pode ser encontrado aqui:
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+   Colocar o codigo no VSCODES.
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+   Run no vscode.
 
 3. **Estrutura de Pastas:**  
    Classes separadas rodando na main. tudo na src.
