@@ -1,0 +1,19 @@
+=== Alunos ===
+Nome,DataNascimento,Telefone,Endereco,Matricula,AnoIngresso
+"teste","29/07/2006","123","testando","123","333"
+"hahaha","19/02/2828","123","aaa","0202","1234"
+
+=== Professores ===
+Nome,DataNascimento,Telefone,Endereco,AreaFormacao,AnoAdmissao,Email
+"legal","19/19/1999","333","hexoplaca","sim","talvezx","4444"
+
+=== Disciplinas ===
+Nome,CargaHoraria,Codigo
+"nao","444","789"
+
+=== Turmas ===
+Codigo,Disciplina,Professor,AnoLetivo,QuantidadeAlunos
+"2","nao","legal","1111","0"
+
+=== Notas ===
+Aluno,Disciplina,Nota,Data
