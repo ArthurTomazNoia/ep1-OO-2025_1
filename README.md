@@ -25,10 +25,10 @@ O enunciado do trabalho pode ser encontrado aqui:
    [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
 
 3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+   Classes separadas rodando na main. tudo na src.
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   java 21
 
 ---
 
@@ -41,36 +41,39 @@ O enunciado do trabalho pode ser encontrado aqui:
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Inserir Print 1](caminho/do/print1.png)
+   ![image](https://github.com/user-attachments/assets/28936e26-9da2-4b37-b583-a3282e36f97d)
+
 
 2. Cadastro de Aluno:  
-   ![Inserir Print 2](caminho/do/print2.png)
+   ![image](https://github.com/user-attachments/assets/91ebe17e-45bb-4447-8f58-d95c62d41120)
+
 
 3. Relatório de Frequência/Notas:  
-   ![Inserir Print 3](caminho/do/print3.png)
+   ![image](https://github.com/user-attachments/assets/ede58d92-a5ee-4baf-b3ea-88d88365356b)
+
 
 ---
 
 ## Principais Funcionalidades Implementadas
 
-- [ ] Cadastro, listagem, matrícula e trancamento de alunos (Normais e Especiais)
-- [ ] Cadastro de disciplinas e criação de turmas (presenciais e remotas)
-- [ ] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
-- [ ] Lançamento de notas e controle de presença
-- [ ] Cálculo de média final e verificação de aprovação/reprovação
-- [ ] Relatórios de desempenho acadêmico por aluno, turma e disciplina
-- [ ] Persistência de dados em arquivos (.txt ou .csv)
-- [ ] Tratamento de duplicidade de matrículas
-- [ ] Uso de herança, polimorfismo e encapsulamento
+- [ +-] Cadastro, listagem, matrícula e trancamento de alunos (Normais e Especiais)
+- [+ ] Cadastro de disciplinas e criação de turmas (presenciais e remotas)
+- [ +] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
+- [ +] Lançamento de notas e controle de presença
+- [ +] Cálculo de média final e verificação de aprovação/reprovação
+- [ +] Relatórios de desempenho acadêmico por aluno, turma e disciplina
+- [ +] Persistência de dados em arquivos (.txt ou .csv)
+- [ -] Tratamento de duplicidade de matrículas
+- [ +] Uso de herança, polimorfismo e encapsulamento
 
 ---
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- Extensividade do trabalho, navegar pelo github e conseguir comittar, implementar .csv nos inputs dos usuários.
 
 ---
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+arthurtomaznoia@gmail.com
