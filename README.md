@@ -33,15 +33,15 @@ O enunciado do trabalho pode ser encontrado aqui:
 ---
 
 ## Vídeo de Demonstração
+https://youtu.be/o7xXHpvuE3g
 
-- [Inserir o link para o vídeo no YouTube/Drive aqui]
 
----
 
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![image](https://github.com/user-attachments/assets/28936e26-9da2-4b37-b583-a3282e36f97d)
+   ![image](https://github.com/user-attachments/assets/1e667537-1be9-4767-b1b1-9ef4283e6a80)
+
 
 
 2. Cadastro de Aluno:  
